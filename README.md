@@ -6,7 +6,7 @@ Currently working with PyTorch.
 
 If you want to contact me, send an email to the address on my profile.
 
-Might work with [Nano](https://nano.org/) soon. If you like my work, feel free to tip me here:
+Might work with [Nano](https://nano.org/) soon. If you like my work from my nano projects (which will be up soon), feel free to tip me here:
 `nano_1zbqw13oom9s8rcnak4fmgupj33ufwbm33otft9ocqbjfeewg1eqgdgsjwe1`
 
 <!--
