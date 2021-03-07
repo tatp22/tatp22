@@ -6,6 +6,9 @@ Currently working with PyTorch.
 
 If you want to contact me, send an email to the address on my profile.
 
+Might work with [Nano](https://nano.org/) soon. If you like my work, feel free to tip me here:
+`nano_1zbqw13oom9s8rcnak4fmgupj33ufwbm33otft9ocqbjfeewg1eqgdgsjwe1`
+
 <!--
 **tatp22/tatp22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
